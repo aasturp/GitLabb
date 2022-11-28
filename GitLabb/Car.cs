@@ -1,8 +1,8 @@
 ﻿using System;
 
-public class Class1
+public class Car
 {
-	public Class1()
+	public Car()
 	{
 		public string Make { get; set; }
 		public string Model { get; set; }
